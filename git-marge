@@ -1,0 +1,50 @@
+#!/bin/bash
+
+# Move or symlink this file to somewhere on your PATH like /usr/local/bin
+
+#         ,
+#         (                          )
+#          \                        /
+#         ,' ,__,___,__,-._         )
+#         )-' ,    ,  , , (        /
+# -hrr-   ;'"-^-.,-''"""\' \       )
+#        (      (        ) /  __  /
+#         \o,----.  o  _,'( ,.^. \
+#         ,'`.__  `---'    `\ \ \ \_
+#  ,.,. ,'                   \    ' )
+#  \ \ \\__  ,------------.  /     /
+# ( \ \ \( `---.-`-^--,-,--\:     :
+#  \       (   (""""""`----'|     :
+#   \   `.  \   `.          |      \
+#    \   ;  ;     )      __ _\      \
+#    /     /    ,-.,-.'"Y  Y  \      `.
+#   /     :    ,`-'`-'`-'`-'`-'\       `.
+#  /      ;  ,'  /              \        `
+# /      / ,'   /                \
+# Original art by Horroroso
+# https://www.asciiart.eu/cartoons/simpsons
+
+echo "         ,"
+echo "         (                          )"
+echo "          \\                        /"
+echo "         ,' ,__,___,__,-._         )"
+echo "         )-' ,    ,  , , (        /"
+echo "         ;'\"-^-.,-''\"\"\"\\' \\       )"
+echo "        (      (        ) /  __  /"
+echo "         \\o,----.  o  _,'( ,.^. \\"
+echo "         ,'\`.__  \`---'    \`\\ \\ \\ \\_"
+echo "  ,.,. ,'                   \\    ' )"
+echo "  \\ \\ \\\\__  ,------------.  /     /"
+echo " ( \\ \\ \\( \`---.-\`-^--,-,--\\:     :"
+echo "  \\       (   (\"\"\"\"\"\"\`----'|     :"
+echo "   \\   \`.  \\   \`.          |      \\"
+echo "    \\   ;  ;     )      __ _\\      \\"
+echo "    /     /    ,-.,-.'\"Y  Y  \\      \`."
+echo "   /     :    ,\`-'\`-'\`-'\`-'\`-'\\       \`."
+echo "  /      ;  ,'  /              \\        \`"
+echo " /      / ,'   /                \\  -hrr-"
+echo
+echo "git: 'marge' is not a git command. See 'git --help'."
+echo 
+echo "The most similar command is"
+echo "        merge"
